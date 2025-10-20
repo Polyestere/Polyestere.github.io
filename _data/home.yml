@@ -1,18 +1,11 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: Portfolio
 
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
 
 project_entries:
   - title: MI-FGSM + FFT 기반 데이터 증강 기법 연구
     url: overview-post
     desc: MI-FGSM과 FFT를 결합하여 데이터 증강 기법의 성능을 향상시키는 연구 논문 작성
-    highlight: In Progress
 
   - title: SCIE 학술지 논문 게재 (1저자)
     url: overview-post
@@ -60,39 +53,13 @@ project_entries:
     
   - title: 이상치 라벨링 강화학습 논문 작성 
     url: some-url
-    desc: Some description
+    desc: 강화학습을 통한 이상치 탐지 및 라벨링 논문 작성 예정
     highlight: WIP
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/Polyestere
 
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
