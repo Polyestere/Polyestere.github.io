@@ -59,6 +59,8 @@ project_entries:
     desc: 라즈베리파이와 LED를 이용한 맞춤형 알람 시계 제작 프로젝트 (2024.10.30 ~ 2024.12.23)
     
   - title: 이상치 라벨링 강화학습 논문 작성 
+    url: some-url
+    desc: Some description
     highlight: WIP
 
 old_project_entries:
