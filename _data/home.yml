@@ -16,7 +16,7 @@ project_entries:
 
   - title: SCIE 학술지 논문 게재 (1저자)
     url: overview-post
-    desc: 'A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data' 논문을 MDPI 저널에 게재
+    desc: A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data 논문을 MDPI 저널에 게재
 
   - title: 2025 한국통신학회 추계학술대회 논문
     url: overview-post
@@ -32,11 +32,11 @@ project_entries:
 
   - title: 2025 대한전자공학회 하계학술대회 포스터 발표 (2저자)
     url: overview-post
-    desc: '이상치 탐지 성능 향상을 위한 MI-FGSM 데이터 증강 기법' 연구를 주제로 포스터 발표
+    desc: 이상치 탐지 성능 향상을 위한 MI-FGSM 데이터 증강 기법 연구를 주제로 포스터 발표
 
   - title: 2025 한국통신학회 동계학술대회 구두 발표 (1저자)
     url: overview-post
-    desc: '금속 산업 용도별 전력 데이터 기반 이상치 탐지' 연구를 주제로 구두 발표
+    desc: 금속 산업 용도별 전력 데이터 기반 이상치 탐지 연구를 주제로 구두 발표
 
   - title: ABC 부트캠프 8기 수료
     url: overview-post
