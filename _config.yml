@@ -1,15 +1,14 @@
-title: Moonwalk
+title: Portfloio
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+  국립한밭대학교 컴퓨터공학과 3학년 연구원 정민성입니다. EcoAI 연구실에서 데이터 분석 및 이상치 탐지 관련 SCIE 논문 1저자 경험과 논문 작성을 통해 데이터 연구자로써의 역량을 쌓아가고 있으며, 새로운 기술을 배우고 적용하며 끊임없이 성장하려 하고있습니다.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
-    username: abhinav # update or delete this
+    username: Polyestere # update or delete this
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
